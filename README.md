@@ -6,7 +6,7 @@
 Add your message in ProducerRecord
 ```java
 for (int i = 1; i <= 10; i++){
-    User user=new User(i,"Girish",21,"B.Tech");
+    User user=new User(i,"Shubham Rawat",21,"MCA");
     kafkaProducer.send(new ProducerRecord("mytopic2",String.valueOf(user.getId()),user));
 }
 ```
