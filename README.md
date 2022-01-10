@@ -42,22 +42,22 @@ while (true) {
 Just run the `Consumer.java` file. A terminal will open and there you can see your all messages from beginning produced by Producer.
 
 ### In result.txt
-> {"id":1, "name":"Girish Kumar Goyal", "age":21, "course":"B.Tech"}
+> {"id":1, "name":"Shubham Rawat", "age":21, "course":"MCA"}
 >
-> {"id":5, "name":"Girish Kumar Goyal", "age":21, "course":"B.Tech"}
+> {"id":5, "name":"Shubham Rawat", "age":21, "course":"MCA"}
 >
-> {"id":7, "name":"Girish Kumar Goyal", "age":21, "course":"B.Tech"}
+> {"id":7, "name":"Shubham Rawat", "age":21, "course":"MCA"}
 >
-> {"id":8, "name":"Girish Kumar Goyal", "age":21, "course":"B.Tech"}
+> {"id":8, "name":"Shubham Rawat", "age":21, "course":"MCA"}
 >
-> {"id":2, "name":"Girish Kumar Goyal", "age":21, "course":"B.Tech"}
+> {"id":2, "name":"Shubham Rawat", "age":21, "course":"MCA"}
 >
-> {"id":3, "name":"Girish Kumar Goyal", "age":21, "course":"B.Tech"}
+> {"id":3, "name":"Shubham Rawat", "age":21, "course":"MCA"}
 >
-> {"id":9, "name":"Girish Kumar Goyal", "age":21, "course":"B.Tech"}
+> {"id":9, "name":"Shubham Rawat", "age":21, "course":"MCA"}
 >
-> {"id":4, "name":"Girish Kumar Goyal", "age":21, "course":"B.Tech"}
+> {"id":4, "name":"Shubham Rawat", "age":21, "course":"MCA"}
 >
-> {"id":6, "name":"Girish Kumar Goyal", "age":21, "course":"B.Tech"}
+> {"id":6, "name":"Shubham Rawat", "age":21, "course":"MCA"}
 >
-> {"id":10, "name":"Girish Kumar Goyal", "age":21, "course":"B.Tech"}
+> {"id":10, "name":"Shubham Rawat", "age":21, "course":"MCA"}
